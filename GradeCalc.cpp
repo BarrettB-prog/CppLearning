@@ -70,7 +70,7 @@ int main()
     }
     
   
-    // found out i can add a whole bunch of stuff in functions, not just 1 statement
+    
     // the first 4 are to make sure its a y or n and the && statement prevents negative numbers
     
     if(extracredit == 'n' || extracredit == 'N')
