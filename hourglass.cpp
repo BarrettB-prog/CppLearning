@@ -141,6 +141,6 @@ void printTriangle(int S, char BorderChar, char FillChar)
 // Print the full hourglass 
 void PrintHourglass(int S, char BorderChar, char FillChar)
 {
-    printInvertedTriangle(S, BorderChar, FillChar);  // Upper part of hourglass
-    printTriangle(S, BorderChar, FillChar);          // Lower part of hourglass
+    printInvertedTriangle(S, BorderChar, FillChar);  // upper part of hourglass
+    printTriangle(S, BorderChar, FillChar);          // lower part of hourglass
 }
