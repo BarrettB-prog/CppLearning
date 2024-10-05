@@ -8,7 +8,6 @@ Assumptions: movie files are in the correct format , no trailing whitespace in t
 
 All work below was performed by Barrett Bobilin
 
-
 ***************************************************************************************************************************/
 
 #include <iostream>
